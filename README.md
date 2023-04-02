@@ -51,7 +51,6 @@ Exploratory Data Analysis: We removed id variable as it doesn’t give much inte
 Linear Regression: Linear Regression is a regression of dependent variable on independent variable. It is a linear model that assumes a linear relationship between dependent (y) and independent variables (x).
 
 
-##Conclusion
+## Conclusion
 In this project we covered various aspects of the Machine learning development cycle. We observed that the data exploration and variable analysis is a very important aspect of the whole cycle and should be done for thorough understanding of the data. We also cleaned the data while exploring as there were some outliers which should be treated before feature engineering. Further we did feature engineering to filter and gather only the optimal features which are more significant and covered most of the variance in the dataset. Then finally we trained the models on the optimum featureset to get the results.
 
-LinkedIn Badge GitHub Badge
