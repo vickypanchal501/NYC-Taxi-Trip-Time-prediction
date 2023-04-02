@@ -3,16 +3,6 @@ NYC-Taxi-Trip-Time-prediction
  Project Files Description
 This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:
 
-# Executable Files:
-
-NYC Taxi Trip Time Prediction - Capstone Project.ipynb - Includes all functions required for regression operations.
-
-Output:
-Google Colab - All the outputs are visible in the provided colab notebook.
-
-Input Files:
-NYC Taxi.csv - Input dataset having information about different shows/movies available on Netflix.
-
 -----------------------------------------------------
 
 # 📖Introduction
